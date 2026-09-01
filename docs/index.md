@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 1 ###<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 26 - 2028<br>
 <font size="4">Arizona State University<br>
-**EGR 304**<br>
-Professor Name<br>
+**RAS 304**<br>
+Professor Thangavelu<br>
   
 
 </center>
